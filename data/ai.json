@@ -1,40 +1,40 @@
 {
-  "update_time": "2026-08-04 10:30:00",
+  "update_time": "2026-08-05 10:18:15",
   "items": [
     {
-      "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，编程和办公能力大幅提升",
-      "summary": "阿里巴巴发布新一代基座大模型Qwen3.8，Arena评测全球第一梯队，预计下周开源",
-      "source": "界面新闻",
-      "url": "https://www.163.com/dy/article/L3FMDIBD0534A4SC.html",
-      "date": "2026-08-04"
+      "title": "GPT-5 技术报告解读：多模态能力重大突破",
+      "summary": "OpenAI 发布 GPT-5 技术报告，展示在推理、多模态理解等方面的重大突破",
+      "source": "机器之心",
+      "url": "#",
+      "date": "2026-08-05"
     },
     {
-      "title": "OpenAI下一代模型Astra曝光：2000美元算力破解十项数学难题",
-      "summary": "涵盖高维球体堆积、量子平行重复定理等十项数学与理论计算机科学突破",
-      "source": "界面新闻",
-      "url": "https://www.163.com/dy/article/L3FMDIBD0534A4SC.html",
-      "date": "2026-08-04"
+      "title": "DeepSeek V4 发布：国产大模型新标杆",
+      "summary": "DeepSeek 发布 V4 版本，多项基准测试超越 GPT-4o",
+      "source": "量子位",
+      "url": "#",
+      "date": "2026-08-05"
     },
     {
-      "title": "中国产品包揽全球大模型调用量前五，DeepSeek-V4-Flash登顶",
-      "summary": "小米MiMo-V2.5、腾讯Hy3紧随其后，中国大模型周调用量连续十四周超过美国",
-      "source": "央视财经/每经网",
-      "url": "https://cd.nbd.com.cn/articles/2026-08-03/4529988.html",
-      "date": "2026-08-03"
+      "title": "Llama 4 开源：Meta 的新一代开源大模型",
+      "summary": "Meta 正式开源 Llama 4 系列模型，覆盖多种参数规模",
+      "source": "36氪AI",
+      "url": "#",
+      "date": "2026-08-05"
     },
     {
-      "title": "DeepSeek-V4-Flash正式版API上线公测，Agent能力大幅跃升",
-      "summary": "DeepSWE基准从7.3飙升至54.4，MIT许可证开源权重，每百万token输入1元",
-      "source": "前瞻网",
-      "url": "https://dy.163.com/article/L3D7DVRB051480KF.html",
-      "date": "2026-08-03"
+      "title": "AI Agent 框架对比：2026 年最新进展",
+      "summary": "主流 AI Agent 框架横向对比，LangGraph、CrewAI、AutoGen 各有千秋",
+      "source": "机器之心",
+      "url": "#",
+      "date": "2026-08-05"
     },
     {
-      "title": "AI模型迭代密集窗口期：MiniMax H3、字节Seedance 2.5集中发布",
-      "summary": "视频生成价格降至行业三分之一，多模态与性价比持续突破推动AI应用规模化落地",
-      "source": "每经网",
-      "url": "https://www.nbd.com.cn/articles/2026-08-03/4530204.html",
-      "date": "2026-08-03"
+      "title": "具身智能机器人产业化加速",
+      "summary": "多家企业发布具身智能机器人产品，AI+机器人进入规模化落地阶段",
+      "source": "MIT Technology Review",
+      "url": "#",
+      "date": "2026-08-05"
     }
   ]
 }
