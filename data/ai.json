@@ -1,40 +1,40 @@
 {
-  "update_time": "2026-08-11 02:15:58",
+  "update_time": "2026-08-12 02:33:26",
   "items": [
     {
       "title": "GPT-5 技术报告解读：多模态能力重大突破",
       "summary": "OpenAI 发布 GPT-5 技术报告，展示在推理、多模态理解等方面的重大突破",
       "source": "机器之心",
       "url": "#",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
     },
     {
       "title": "DeepSeek V4 发布：国产大模型新标杆",
       "summary": "DeepSeek 发布 V4 版本，多项基准测试超越 GPT-4o",
       "source": "量子位",
       "url": "#",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
     },
     {
       "title": "Llama 4 开源：Meta 的新一代开源大模型",
       "summary": "Meta 正式开源 Llama 4 系列模型，覆盖多种参数规模",
       "source": "36氪AI",
       "url": "#",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
     },
     {
       "title": "AI Agent 框架对比：2026 年最新进展",
       "summary": "主流 AI Agent 框架横向对比，LangGraph、CrewAI、AutoGen 各有千秋",
       "source": "机器之心",
       "url": "#",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
     },
     {
       "title": "具身智能机器人产业化加速",
       "summary": "多家企业发布具身智能机器人产品，AI+机器人进入规模化落地阶段",
       "source": "MIT Technology Review",
       "url": "#",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
     }
   ]
 }
